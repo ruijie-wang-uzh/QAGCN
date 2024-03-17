@@ -6,7 +6,7 @@ To appear at the [21st European Semantic Web Conference (ESWC 2024)](https://202
 
 Arxiv preprint: [QAGCN: Answering Multi-Relation Questions via Single-Step Implicit Reasoning over Knowledge Graphs](https://arxiv.org/abs/2206.01818).
 
-![system overview](https://github.com/ruijie-wang-uzh/QAGCN/blob/main/system.png?raw=true){: width="70%"}{: .center}
+<img src="https://github.com/ruijie-wang-uzh/QAGCN/blob/main/system.png" width=70%>
 
 ----
 
